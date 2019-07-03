@@ -32,7 +32,7 @@ function johnLennonFacts(array) {
 
 
 function iLoveTheBeatles(num) {
-  c = []
+  var c = []
   do {
     c.push("I love the Beatles")
     num++
